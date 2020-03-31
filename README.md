@@ -1,5 +1,7 @@
 # Wanalyzer
 
+![Tests](https://github.com/C911N/Wanalyzer/workflows/Tests/badge.svg)
+
 Wanalyzer is a simple Python module providing tools to **parse** and **analyze** exported WhatsApp conversations (via the `Export Chat` feature of WhatsApp).
 
 ## Installation
