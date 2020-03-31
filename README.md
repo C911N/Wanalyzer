@@ -52,9 +52,9 @@ The `MemberStat` dataclass gives informations about the messages sent by the mem
 | member_name        | `str`                               |
 | member_conv        | `str`                               | 
 | messages           | `List[Message]`                     |
-| msg_count_by_type  | `Dict[MessageType, List[Message]]`  |
+| msg_count_by_type  | `Dict[MessageType, int]`  |
 
-The `msg_count_by_type` attribute provide the messages sorted according to there type.
+The `msg_count_by_type` attribute provide the messages count of each type.
 
 **Time scale splitting**
 
