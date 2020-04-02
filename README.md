@@ -7,7 +7,8 @@ Wanalyzer is a simple Python module providing tools to **parse** and **analyze**
 ## Installation
 
 To install **Wanalyzer**, you can simply use ``pip install analyser`` or use the `setup.py` python script.
-And import it to your project with `import wanalyzer as wa` 
+
+And import it to your project with `import wanalyzer as wa`.
 
 ## Usage
 
